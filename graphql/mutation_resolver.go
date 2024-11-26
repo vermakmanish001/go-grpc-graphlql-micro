@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/vermakmanish001/go-grpc-graphql-micro/order"
+	"github.com/vermkmanish001/go-grpc-graphql-micro/order"
 )
 
 var (
